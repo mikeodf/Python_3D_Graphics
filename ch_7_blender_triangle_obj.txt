@@ -1,0 +1,10 @@
+# Blender v2.62 (sub 0) OBJ File: 'triangle_pyramid.blend' 
+# www.blender.org 
+mtllib triangle.mtl 
+o Plane 
+v 1.000000 0.000000 1.000000 
+v -1.000000 0.000000 1.000000 
+v -1.000000 0.000000 -1.000000 
+usemtl Material.001 
+s 1 
+f 1 2 3
